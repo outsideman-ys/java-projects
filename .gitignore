@@ -1,2 +1,2 @@
 *.class
-/StepTracker/
+/StepTracker/*.java
