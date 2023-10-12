@@ -1,3 +1,4 @@
 *.class
 /StepTracker
 /StepTracker/*.java
+/TaskManager
